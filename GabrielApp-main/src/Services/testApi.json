@@ -1,0 +1,34 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Gabriel Henrique",
+      "email": "gabriel@gmail",
+      "document": "123456",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Talita Dayane",
+      "email": "talita@gmail",
+      "document": "123456",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Taynara Dayane",
+      "email": "taynara@gmail.com",
+      "document": "123456",
+      "password": "123456"
+      
+    },
+    {
+      "id": 4,
+      "name": "Paulo Ricardo",
+      "email": "paulo@gmail.com",
+      "document": "123456",
+      "password": "123456"
+      
+    }
+  ]
+}
